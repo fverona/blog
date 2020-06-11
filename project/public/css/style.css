@@ -1,0 +1,39 @@
+h1, h2
+{
+   
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+    background-color:black;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+p
+{
+    background-color:#CCCCCC; 
+    margin-top:0px;
+}
+
+.news
+{
+    
+    width:50%;
+    margin:auto;
+}
+a
+{
+    text-align:center;
+    text-decoration: underline;
+    color: blue;
+}
+
+.err
+{
+    text-align:center;
+    text-decoration: underline;
+    color: red;
+}
